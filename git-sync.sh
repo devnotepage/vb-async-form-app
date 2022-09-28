@@ -1,6 +1,3 @@
-git add .
-printf "\n"
-
 git commit -m'update'
 printf "\n"
 
